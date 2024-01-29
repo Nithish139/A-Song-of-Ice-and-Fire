@@ -1,0 +1,194 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Uncial Antiqua',cursive;
+}
+
+h2{
+    font-size:30px;
+    clear:left;
+}
+
+p{
+    font-size:20px;
+}
+
+img{
+    float:left;
+    margin: 10px 20px;
+}
+
+#ice-span{
+    color:blue;
+    text-shadow: -10px -10px rgb(145, 204, 224);
+}
+
+#fire-span{
+    color:crimson;
+    text-shadow: -10px -10px rgb(251, 177, 148);
+}
+
+#row-1
+{
+    clear:left;
+    clear:right;
+    display: block;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#row-2
+{
+    clear:left;
+    clear:right;
+    display: block;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#row-3
+{
+    clear:left;
+    clear:right;
+    display: block;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#row-4
+{
+    clear:left;
+    clear:right;
+    display: block;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#house-stark{
+    clear:left;
+    float:left;
+    width:45%;
+    text-align: justify;
+    margin:20px;
+}
+
+#house-lannister
+{
+    float:right;
+    width:45%;
+    text-align: justify;
+    margin:20px;
+}
+
+#house-baratheon
+{
+    clear:left;
+    float:left;
+    width:45%;
+    text-align: justify;
+    margin:20px;
+}
+
+#house-tyrell
+{
+    float:right;
+    width:45%;
+    text-align: justify;
+    margin:20px;
+}
+
+#house-martell
+{
+    clear:left;
+    float:left;
+    width:45%;
+    text-align: justify;
+    margin:20px;
+}
+
+#house-tully
+{
+    float:right;
+    width:45%;
+    text-align: justify;
+    margin:20px;
+}
+
+#house-arryn
+{
+    clear:left;
+    float:left;
+    width:45%;
+    text-align: justify;
+    margin:20px;
+}
+
+#house-greyjoy
+{
+    float:right;
+    width:45%;
+    text-align: justify;
+    margin:20px;
+}
+
+*{
+    background-color: #DCF2F1;
+}
+
+@media (max-width: 850px) {
+    #house-stark{
+        width:100%;
+        text-align: justify;
+        margin:20px;
+    }
+    
+    #house-lannister
+    {
+        width:100%;
+        text-align: justify;
+        margin:20px;
+    }
+    
+    #house-baratheon
+    {
+        width:100%;
+        text-align: justify;
+        margin:20px;
+    }
+    
+    #house-tyrell
+    {
+        width:100%;
+        text-align: justify;
+        margin:20px;
+    }
+    
+    #house-martell
+    {
+        width:100%;
+        text-align: justify;
+        margin:20px;
+    }
+    
+    #house-tully
+    {
+        width:100%;
+        text-align: justify;
+        margin:20px;
+    }
+    
+    #house-arryn
+    {
+        width:100%;
+        text-align: justify;
+        margin:20px;
+    }
+    
+    #house-greyjoy
+    {
+        width:100%;
+        text-align: justify;
+        margin:20px;
+    }
+}
+ 
